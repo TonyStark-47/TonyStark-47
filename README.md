@@ -1,4 +1,6 @@
 [![An image of @tonystark47's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/tonystark47)](https://holopin.io/@tonystark47)
+# GSSoC Badges
+[![GSSoC-Badges](https://gssoc-dymanic-badges.vercel.app/api/TonyStark-47?year=2024)](https://gssoc.girlscript.tech/leaderboard?year=2024)
 - 👋 Hi, I’m Saurabh
 <!--- 👀 I’m interested in ... --->
 - 🌱 I’m currently learning/building different projects with Python!
